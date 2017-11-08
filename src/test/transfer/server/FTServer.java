@@ -1,5 +1,5 @@
 package test.transfer.server;
-// Server Code
+
 public class FTServer implements Runnable {
 	public static volatile boolean running = true;
 	public Config config;
